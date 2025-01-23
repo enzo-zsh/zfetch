@@ -1,5 +1,5 @@
 # zfetch 📜
-![](https://raw.githubusercontent.com/jornmann/zfetch/img/zfetchscrot.png)
+![miguel-alcantara-_HEqJviJ7KY-unsplash](https://github.com/user-attachments/assets/3b697a81-bff8-47ff-a3f5-8dd05bde5acd)
 ## What's zfetch? 🤔
 zfetch is a fetch script used to quickly show system information in terminal.
 ## What does it show? 🤔
