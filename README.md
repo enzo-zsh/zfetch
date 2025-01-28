@@ -10,18 +10,14 @@ Currently it shows this information:
 - Your kernel.
 - Machine uptime.
 - Terminal Shell.
+- CPU.
+- Memory.
+- Init system.
+- Packages lists.
 - 7 colored dots to identify terminal colors.
 ## Installation 🔧
-### Arch Linux
-Arch users may install it from the AUR.
-Remember to read the PKGBUILD!
-```
-git clone https://aur.archlinux.org/zfetch.git
-cd zfetch
-cat PKGBUILD
-makepkg -si
-```
-### Other distros
+
+### Other distros **(IT'S NOR WORK ON macOS)**
 ```
 git clone https://github.com/jornmann/zfetch.git
 cd zfetch
