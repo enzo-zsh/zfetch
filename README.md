@@ -15,6 +15,11 @@ Currently it shows this information:
 - Init system.
 - Packages lists.
 - 7 colored dots to identify terminal colors.
+
+## Screenshot
+<img width="682" alt="image" src="https://github.com/user-attachments/assets/b0f6337d-6951-4a3b-a72e-d4540a16f38c" />
+
+
 ## Installation 🔧
 
 ### Other distros **(IT'S NOR WORK ON macOS)**
