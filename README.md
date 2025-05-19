@@ -22,9 +22,9 @@ Currently it shows this information:
 
 ## Installation 🔧
 
-### Other distros **(IT'S NOR WORK ON macOS)**
-```
-git clone https://github.com/jornmann/zfetch.git
-cd zfetch
-make install
+Via Homebrew https://github.com/enzo-zsh/homebrew-tap
+
+```s
+brew tap enzo-zsh/tap
+brew install zfetch
 ```
